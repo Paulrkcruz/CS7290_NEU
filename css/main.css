@@ -1,15 +1,15 @@
 body { margin: 60px auto; width: 70%; }
 
-a { text-decoration: none; color: #999; }
+a { text-decoration: none; color: rgb(43, 25, 198); }
 a:hover { text-decoration: underline; }
 
-blurb {
+div {
     width: 300px;
     border: 15px solid green;
     padding: 50px;
     margin: 20px;
   }
-
+  
 p 
 { font-size: 1.5em; line-height: 1.4em; color: #333; }
 
