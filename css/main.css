@@ -17,6 +17,17 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer 
 { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+    color: #6c757d;
+    line-height: 1.5;
+    background-color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  
 .footer-dark {
     padding:50px 0;
     color:#f0f9ff;
