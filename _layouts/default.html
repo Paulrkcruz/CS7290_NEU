@@ -1,21 +1,27 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ page.title }}</title>
-    
-    <link rel="stylesheet" type="text/css" href="/CS7290_NEU/css/main.css">
+  <!-- Title of web page -->
+  <title>{{ page.title }}</title>
+  <!-- Import css -->
+  <link rel="stylesheet" type="text/css" href="/CS7290_NEU/css/main.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   </head>
   <body>
-    <nav>
+  <nav>
+<!-- Navbar -->
 <nav class="navbar navbar-expand-sm bg-light">
 <li><a href="/CS7290_NEU">Home</a></li>
 <li><a href="/CS7290_NEU/assignments/index.html">Assignments</a></li>
 <li><a href="/CS7290_NEU/short_projects/index.html">Short Projects</a></li>
 <li><a href="/CS7290_NEU/term_project/index.html">Term Project</a></li>
 <li><a href="/CS7290_NEU/about/index.html">About</a></li>
-</b4-nav-a>
-  </nav>
-
+</nav>
+<!-- Content from other pages -->
 <div class="container">
 
   {{ content }}
@@ -39,5 +45,5 @@
 </footer>
 <!-- Footer -->
 </div>
-  </body>
+</body>
 </html>
