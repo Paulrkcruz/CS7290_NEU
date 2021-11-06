@@ -1,0 +1,8 @@
+﻿CensusCountPCT,ConfirmedCaseCountPCT,DeceasedCountPCT,LOADED,race,RecoveredCountPCT,VaccinatedCountPCT,ObjectId
+0.18,0,0,2021/06/01 10:13:00+00,American Indian/Alaska Native,0,0,1
+2.87,3,1,2021/06/01 10:13:00+00,Asian,3,3,2
+21.73,22,19,2021/06/01 10:13:00+00,Black,23,14,3
+5.44,8,3,2021/06/01 10:13:00+00,Ethnicity,10,2,4
+2.54,1,2,2021/06/01 10:13:00+00,Multiracial,0,9,5
+0.05,0,0,2021/06/01 10:13:00+00,Native Hawaiian/Other Pacific Islander,0,0,6
+71.6,68,76,2021/06/01 10:13:00+00,White,66,73,7
